@@ -1,0 +1,3 @@
+D:/Ccode/Clion/shoppingsystem/cmake-build-debug/CMakeFiles/shoppingsystem.dir
+D:/Ccode/Clion/shoppingsystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Ccode/Clion/shoppingsystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

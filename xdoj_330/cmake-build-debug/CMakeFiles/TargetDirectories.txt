@@ -1,0 +1,3 @@
+D:/Ccode/Clion/xdoj_330/cmake-build-debug/CMakeFiles/xdoj_330.dir
+D:/Ccode/Clion/xdoj_330/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Ccode/Clion/xdoj_330/cmake-build-debug/CMakeFiles/rebuild_cache.dir
